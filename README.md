@@ -197,7 +197,8 @@ pip install -r requirements.txt
 
 ## 11. Team
 
-*Add team name, members, and mentor details here.*
+Hitakshi Bhanushali
+Aniket Sinha
 
 ## 12. License
 
